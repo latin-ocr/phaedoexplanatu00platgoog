@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phaedoexplanatu00platgoog_0401.png"; bbox 0 0 2811 4785; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2001 0 2249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 2001 0 2249">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 2001 0 2249"><span class='ocrx_word' id='word_1_1' title='bbox 0 2001 0 2249; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2159 0 3381">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2159 0 3381">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2256 0 3202"><span class='ocrx_word' id='word_1_2' title='bbox 0 2256 0 3202; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 0 2159 0 3381"><span class='ocrx_word' id='word_1_3' title='bbox 0 2159 0 3381; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 412 2025 454 2515">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 412 2025 454 2515">
+     <span class='ocr_line' id='line_1_4' title="bbox 412 2025 454 2515; baseline 245 -490"><span class='ocrx_word' id='word_1_4' title='bbox 412 2025 454 2515; x_wconf 55' lang='lat' dir='ltr'><strong>Q««&lt;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
